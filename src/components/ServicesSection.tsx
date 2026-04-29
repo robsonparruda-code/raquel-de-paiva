@@ -46,7 +46,7 @@ const ServicesSection = () => {
           <h2 className="font-heading text-3xl md:text-5xl font-extrabold tracking-tight text-foreground mt-3 mb-4">
             Cuidado especializado para sua saúde mental
           </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-justify md:text-center">
             Oferecemos atendimento clínico especializado para adolescentes, adultos, casais e famílias, integrando métodos reconhecidos para um acompanhamento personalizado.
           </p>
         </motion.div>
@@ -64,7 +64,7 @@ const ServicesSection = () => {
                 <service.icon size={24} className="text-primary group-hover:text-primary-foreground transition-colors" />
               </div>
               <h3 className="font-heading text-xl md:text-2xl font-bold text-foreground mb-3 tracking-tight">{service.title}</h3>
-              <p className="text-muted-foreground text-sm leading-relaxed mb-4">{service.description}</p>
+              <p className="text-muted-foreground text-sm leading-relaxed mb-4 text-justify">{service.description}</p>
               <Button variant="secondary" size="sm" asChild>
                 <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
                   Saiba Mais

@@ -27,16 +27,16 @@ const AboutSection = () => {
             <h2 className="font-heading text-3xl md:text-5xl font-extrabold tracking-tight text-foreground mt-3 mb-6">
               Dra. Raquel de Paiva
             </h2>
-            <p className="text-lg text-muted-foreground leading-relaxed mb-4">
+            <p className="text-lg text-muted-foreground leading-relaxed mb-4 text-justify">
               Com mais de 20 anos de experiência, a Dra. Raquel de Paiva fundou o Instituto Élpis por sua paixão pela 
               compreensão profunda do comportamento humano. Pós-doutora em Psicologia Clínica, Doutora e Mestre 
               pela UnB, e Terapeuta Certificada EMDR, a Dra. Raquel é referência em saúde mental em Brasília.
             </p>
-            <p className="text-lg text-muted-foreground leading-relaxed mb-4">
+            <p className="text-lg text-muted-foreground leading-relaxed mb-4 text-justify">
               Nossa missão é clara: a saúde integral nasce do equilíbrio entre rigor técnico e acolhimento sensível.
               Acreditamos que cada trajetória é única e exige um olhar clínico que respeite o tempo do indivíduo.
             </p>
-            <p className="text-lg text-muted-foreground leading-relaxed mb-8">
+            <p className="text-lg text-muted-foreground leading-relaxed mb-8 text-justify">
               Supervisora e Vice-coordenadora do GIPSI/UnB e autora do livro <em>"Vivências Espirituais e Crises
               do Tipo Psicóticas"</em>, a Dra. Raquel traz uma integração única de EMDR com visão sistêmica e
               fenomenológica para cada atendimento.
