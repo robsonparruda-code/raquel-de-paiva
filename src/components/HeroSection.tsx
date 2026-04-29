@@ -22,7 +22,7 @@ const slides = [
   },
   {
     image: hero3,
-    title: "Um espaço seguro para o seu\ndesenvolvimento pessoal",
+    title: "Um espaço seguro para o seu desenvolvimento pessoal",
     subtitle: "Plano de cuidado personalizado que respeita sua individualidade, seu tempo e sua trajetória.",
   },
   {
